@@ -1,0 +1,953 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DigiMedia.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DigiMedia.0s9cyw62xx.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\admin\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\admin\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\admin\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\chart.js",
+      "PackagePath": "staticwebassets\\admin\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\admin\\js\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\js\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\admin\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\admin\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\admin\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\admin\\js\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\admin\\js\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\admin\\js\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\admin\\js\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\admin\\js\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\admin\\js\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\admin\\js\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\admin\\js\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\admin\\js\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\admin\\js\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\admin\\js\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\admin\\js\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\admin\\js\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\admin\\js\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\admin\\js\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\admin\\js\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\admin\\js\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\admin\\js\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\admin\\js\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\js\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\admin\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\js\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\js\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\js\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\admin\\js\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\admin\\js\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\admin\\js\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\admin\\js\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\admin\\js\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\admin\\js\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\admin\\js\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\admin\\js\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\admin\\js\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\admin\\js\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\admin\\js\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\admin\\js\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\admin\\js\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\admin\\js\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\admin\\js\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\admin\\js\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\admin\\js\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\admin\\js\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\admin\\js\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\admin\\js\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\admin\\js\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\admin\\js\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\admin\\js\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\admin\\js\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\admin\\js\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\admin\\js\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\admin\\js\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\admin\\js\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\js\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\admin\\js\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\admin\\js\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\admin\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\admin\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\js\\template.js",
+      "PackagePath": "staticwebassets\\admin\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\vendors\\base\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\vendors\\base\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\css\\animated.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animated.css"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\css\\owl.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.css"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\css\\templatemo-digimedia-v1.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo-digimedia-v1.css"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\css\\templatemo-digimedia-v2.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo-digimedia-v2.css"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\css\\templatemo-digimedia-v3.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo-digimedia-v3.css"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\fonts\\flexslider-icon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.eot"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\fonts\\flexslider-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\fonts\\flexslider-icon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\fonts\\flexslider-icon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.woff"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\about-dec-v2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\about-dec-v2.png"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\about-dec-v3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\about-dec-v3.png"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\about-dec.png",
+      "PackagePath": "staticwebassets\\assets\\images\\about-dec.png"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\about-right-dec.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about-right-dec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\author-post.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\author-post.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\blog-left-dec.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-left-dec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\blog-post-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-post-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\blog-post-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-post-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\blog-post-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-post-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\blog-post-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-post-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\contact-bottom-right-v2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-bottom-right-v2.png"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\contact-bottom-right-v3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-bottom-right-v3.png"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\contact-bottom-right.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-bottom-right.png"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\contact-dec-v2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-dec-v2.png"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\contact-dec-v3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-dec-v3.png"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\contact-dec.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-dec.png"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\contact-top-right-v2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-top-right-v2.png"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\contact-top-right-v3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-top-right-v3.png"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\contact-top-right.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-top-right.png"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\demo-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demo-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\demo-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demo-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\demo-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demo-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\email-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\email-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\footer-bg-v2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\footer-bg-v2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\footer-bg-v3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\footer-bg-v3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\footer-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\footer-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\location-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\location-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\logo-v1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-v1.png"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\logo-v2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-v2.png"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\logo-v3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-v3.png"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\phone-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\phone-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\portfolio-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\portfolio-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\portfolio-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\portfolio-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\portfolio-left-dec.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio-left-dec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\portfolio-right-dec.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio-right-dec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\quote-bg-v2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\quote-bg-v2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\quote-bg-v3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\quote-bg-v3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\quote-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\quote-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\service-icon-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\service-icon-01.png"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\service-icon-02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\service-icon-02.png"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\service-icon-03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\service-icon-03.png"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\service-icon-04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\service-icon-04.png"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\services-image-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services-image-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\services-image-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services-image-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\services-image-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services-image-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\services-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\services-left-dec.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services-left-dec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\services-right-dec.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services-right-dec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\slider-dec-v2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-dec-v2.png"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\slider-dec-v3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-dec-v3.png"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\slider-dec.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-dec.png"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\slider-left-dec.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-left-dec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\images\\slider-right-dec.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-right-dec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\js\\animation.js",
+      "PackagePath": "staticwebassets\\assets\\js\\animation.js"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\js\\imagesloaded.js",
+      "PackagePath": "staticwebassets\\assets\\js\\imagesloaded.js"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\js\\isotope.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.js"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\js\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl-carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\assets\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\assets\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\vendor\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\vendor\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\vendor\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\vendor\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CFF\\Desktop\\DigiMedia\\wwwroot\\vendor\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DigiMedia.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DigiMedia.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DigiMedia.props",
+      "PackagePath": "build\\DigiMedia.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DigiMedia.props",
+      "PackagePath": "buildMultiTargeting\\DigiMedia.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DigiMedia.props",
+      "PackagePath": "buildTransitive\\DigiMedia.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
