@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\CFF\\Desktop\\DigiMedia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FAA9CFAB-8BBD-400F-8AF2-0CA59C9515E7}|DigiMedia.csproj|c:\\users\\cff\\desktop\\digimedia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAA9CFAB-8BBD-400F-8AF2-0CA59C9515E7}|DigiMedia.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAA9CFAB-8BBD-400F-8AF2-0CA59C9515E7}|DigiMedia.csproj|c:\\users\\cff\\desktop\\digimedia\\areas\\adminpanel\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAA9CFAB-8BBD-400F-8AF2-0CA59C9515E7}|DigiMedia.csproj|solutionrelative:areas\\adminpanel\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FAA9CFAB-8BBD-400F-8AF2-0CA59C9515E7}|DigiMedia.csproj|c:\\users\\cff\\desktop\\digimedia\\areas\\adminpanel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAA9CFAB-8BBD-400F-8AF2-0CA59C9515E7}|DigiMedia.csproj|solutionrelative:areas\\adminpanel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FAA9CFAB-8BBD-400F-8AF2-0CA59C9515E7}|DigiMedia.csproj|c:\\users\\cff\\desktop\\digimedia\\areas\\adminpanel\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FAA9CFAB-8BBD-400F-8AF2-0CA59C9515E7}|DigiMedia.csproj|solutionrelative:areas\\adminpanel\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA9CFAB-8BBD-400F-8AF2-0CA59C9515E7}|DigiMedia.csproj|c:\\users\\cff\\desktop\\digimedia\\areas\\adminpanel\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAA9CFAB-8BBD-400F-8AF2-0CA59C9515E7}|DigiMedia.csproj|solutionrelative:areas\\adminpanel\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\CFF\\Desktop\\DigiMedia\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\CFF\\Desktop\\DigiMedia\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCAAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T13:23:13.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\CFF\\Desktop\\DigiMedia\\Areas\\AdminPanel\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\CFF\\Desktop\\DigiMedia\\Areas\\AdminPanel\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "Areas\\AdminPanel\\Views\\Dashboard\\Index.cshtml",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\CFF\\Desktop\\DigiMedia\\Areas\\AdminPanel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\CFF\\Desktop\\DigiMedia\\Areas\\AdminPanel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\AdminPanel\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-06T13:22:25.583Z",
+              "WhenOpened": "2026-06-06T13:54:01.849Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\CFF\\Desktop\\DigiMedia\\Areas\\AdminPanel\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\CFF\\Desktop\\DigiMedia\\Areas\\AdminPanel\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Areas\\AdminPanel\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-06T13:44:22.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\CFF\\Desktop\\DigiMedia\\Areas\\AdminPanel\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "Areas\\AdminPanel\\Controllers\\DashboardController.cs",
               "ToolTip": "C:\\Users\\CFF\\Desktop\\DigiMedia\\Areas\\AdminPanel\\Controllers\\DashboardController.cs",
               "RelativeToolTip": "Areas\\AdminPanel\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T13:19:59.704Z",
+              "WhenOpened": "2026-06-06T13:43:46.048Z",
               "EditorCaption": ""
             }
           ]
